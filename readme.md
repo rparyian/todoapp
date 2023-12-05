@@ -93,3 +93,11 @@ Feel free to contribute by opening issues or creating pull requests. Follow the 
 ## License
 
 This project is licensed under the MIT License.
+
+## Short feedback
+
+-It was pretty easy to complete the task using AI
+-~3hours
+-I only need to change properties to connect to db and Sonar Server
+-nothing special
+-step by step promting was useful during this task
